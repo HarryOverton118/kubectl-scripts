@@ -44,3 +44,12 @@ alias kdn='kubectl describe namespaces'
 
 alias kcn='kubectl create namespace'
 # kubectl create namespace = kcn
+
+# commands for services
+alias kgs='kubectl get services'
+alias kds='kubectl describe services'
+alias kcs='kubectl create service'
+
+# commands for nodes
+alias kgn='kubectl get nodes'
+alias kdn='kubectl describe nodes'
