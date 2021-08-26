@@ -27,7 +27,6 @@ alias kdp='kubectl describe pods'
 alias kr='kubectl run'
 # kubectl run = kr
 
-
 # commsndds for  deployments
 alias kgd='kubectl get deployments'
 # kubectl get deployments = kgd
@@ -49,6 +48,11 @@ alias kcn='kubectl create namespace'
 alias kgs='kubectl get services'
 alias kds='kubectl describe services'
 alias kcs='kubectl create service'
+
+# commands for replicasets
+alias kgr='kubectl get replicasets'
+alias kgr='kubectl describe replicasets'
+alias kgr='kubectl create replicasets'
 
 # commands for nodes
 alias kgn='kubectl get nodes'
