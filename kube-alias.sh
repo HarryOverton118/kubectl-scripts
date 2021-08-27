@@ -36,7 +36,7 @@ alias kdd='kubectl describe deployments'
 
 # commands for  namespaces
 alias kgn='kubectl get namespaces'
-# kubectl get namespaces = kgn
+# kubectl get namespaces = kgns
 
 alias kdn='kubectl describe namespaces'
 # kubectl describe namespaces = kdn
